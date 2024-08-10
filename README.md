@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0268-missing-number) |
+| [1585-the-kth-factor-of-n](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1585-the-kth-factor-of-n) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
