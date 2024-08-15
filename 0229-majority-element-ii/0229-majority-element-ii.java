@@ -13,7 +13,7 @@ class Solution {
             if(map.get(nums[i])==(int)(nums.length/3)+1){
                 arr.add(nums[i]);
             }
-            if(arr.size()==2) break;
+            
         }
         
 
