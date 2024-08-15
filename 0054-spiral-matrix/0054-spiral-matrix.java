@@ -19,17 +19,13 @@ class Solution {
 
             //bottom->last row fix
             for(int i=ec-1; i>=stc && arr.size()<m*n; i--){
-                if(stc==ec){
-                    break;
-                }
+               
                 arr.add(matrix[er][i]);
             }
 
             //left->st col fix
             for(int i=er-1; i>=str+1 && arr.size()<m*n; i--){
-                if(str==er){
-                    break;
-                }
+               
                 arr.add(matrix[i][stc]);
             }
 
