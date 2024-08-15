@@ -1,5 +1,8 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
+        if(s.length() != t.length()){
+            return false;
+        }
         HashMap<Character, Integer> map = new HashMap<>();
 
         for(int i=0; i< s.length(); i++){
@@ -8,7 +11,7 @@ class Solution {
 
         for(int i=0; i<t.length(); i++){
           char ch = t.charAt(i);
-          if(map.get(ch) != null){  
+          if(map.get(ch) != null){  //character exists in map of s
             if(map.get(ch)==1){ //freq=1->remove
                 map.remove(ch);
             }else{
