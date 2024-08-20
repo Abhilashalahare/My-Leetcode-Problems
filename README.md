@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1585-the-kth-factor-of-n) |
 | [2491-smallest-even-multiple](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2491-smallest-even-multiple) |
 ## Dynamic Programming
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
