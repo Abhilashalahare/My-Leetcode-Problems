@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## String
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
