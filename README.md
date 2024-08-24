@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2714-left-and-right-sum-differences](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
 | ------- |
