@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0055-jump-game) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0225-implement-stack-using-queues](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
@@ -276,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
