@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0874-backspace-string-compare) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Stack
 |  |
 | ------- |
