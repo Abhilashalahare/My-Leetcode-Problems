@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
@@ -239,18 +240,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
