@@ -7,7 +7,7 @@ class Solution {
                 ++cnt;
             }
         }
-        return cnt <= 1;
-
+        if( cnt <= 1) return true;
+return false;
     }
 }
