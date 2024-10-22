@@ -3,9 +3,10 @@ class Solution {
         int[] letter= new int[26];
         int r,max=0;
         int l=0;
+        int n = s.length();
         
 
-        for(r=0; r<s.length(); r++){
+        for(r=0; r<n; r++){
             char curr = s.charAt(r);
             letter[curr-'A']++;
 
@@ -20,7 +21,7 @@ class Solution {
         }
         
 
-     return r-l;
+     return n-l;
 
     }
 }
