@@ -1,36 +1,47 @@
 class Solution {
     public int myAtoi(String s) {
-          // Step 1: Ignore leading whitespaces
-        int index = 0;
-        int n = s.length();
-        while (index < n && s.charAt(index) == ' ') {
-            index++;
-        }
+      s = s.trim();
+      if(s.length()==0){
+        return 0;
+      }
 
-        // Step 2: Determine the sign
-        int sign = 1;
-        if (index < n && s.charAt(index) == '-') {
-            sign = -1;
-            index++;
-        } else if (index < n && s.charAt(index) == '+') {
-            index++;
-        }
+      boolean neg = false;
+      long ans =0;
 
-        // Step 3: Convert the digits to an integer
-        int result = 0;
-        while (index < n && Character.isDigit(s.charAt(index))) {
-            int digit = s.charAt(index) - '0';
-            
-            // Check for overflow before adding the next digit
-            if (result > Integer.MAX_VALUE / 10 || (result == Integer.MAX_VALUE / 10 && digit > Integer.MAX_VALUE % 10)) {
-                return sign == 1 ? Integer.MAX_VALUE : Integer.MIN_VALUE;
+      for(int i=0; i<s.length(); i++){
+        char ch = s.charAt(i);
+
+        if(i==0){
+            if(ch=='-'){
+                neg=true;
+                continue;
+            }else if(ch=='+'){
+                neg=false;
+                continue;
             }
-
-            result = result * 10 + digit;
-            index++;
         }
 
-        // Step 4: Apply the sign and return the result
-        return result * sign;
+        if(ch>='0' && ch<='9'){
+            int dig = ch-'0'; //convert string to digit
+            ans = ans*10 +dig;
+
+            if(neg){
+                long check = -ans;
+                if(check<Integer.MIN_VALUE){
+                    return Integer.MIN_VALUE;
+                }
+            }else{
+                if(ans>Integer.MAX_VALUE){
+                    return Integer.MAX_VALUE;
+                }
+            }
+        }else{
+            break;
+        }
+      }
+      if(neg){
+        ans = -ans;
+      }
+      return (int)ans;
     }
 }
