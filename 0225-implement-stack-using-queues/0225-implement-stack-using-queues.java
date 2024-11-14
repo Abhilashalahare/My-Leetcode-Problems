@@ -6,9 +6,10 @@ class MyStack {
     }
     
     public void push(int x) {
-         q.add(x);
+         q.add(x);//1 2 3 
         for (int i = 0; i < q.size() - 1; i++) {
-            q.add(q.remove());
+            q.add(q.remove());//3 2 1
+            //remove from front and add to to the back becox in stack back se mtlb last me add hota h
     }
     }
     
