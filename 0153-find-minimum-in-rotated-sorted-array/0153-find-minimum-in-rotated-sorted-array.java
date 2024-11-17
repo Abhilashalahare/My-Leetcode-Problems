@@ -7,13 +7,13 @@ class Solution {
       while(left<=right){
         int mid=(left+right)/2;
 
-        // if(nums[eft] <= nums[right]){
-        //     if(nums[left]<ans){
-        //         ans = nums[left];
-        //     }
-        //      min = Math.min(min, nums[left]);
-        //      break;
-        // }
+        if(nums[left] <= nums[right]){
+            if(nums[left]<min){
+                min = nums[left];
+            }
+             min = Math.min(min, nums[left]);
+             break;
+        }
         
         if(nums[left] <= nums[mid]){//if left is sorted check the min and eleiminate left half
             min = Math.min(min, nums[left]);
