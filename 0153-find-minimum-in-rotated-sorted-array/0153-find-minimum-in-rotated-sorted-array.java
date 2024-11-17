@@ -6,16 +6,15 @@ class Solution {
 
       while(left<=right){
         int mid=(left+right)/2;
-
-        if(nums[mid]<min){
-            min = nums[mid];
-        }
-
-        if(nums[mid]>nums[right]){
+        
+        if(nums[left] <= nums[mid]){
+            min = Math.min(min, nums[left]);
             left = mid+1;
         }else{
+            min = Math.min(min, nums[mid]);
             right = mid-1;
         }
+      
       }
       return min;
     }
