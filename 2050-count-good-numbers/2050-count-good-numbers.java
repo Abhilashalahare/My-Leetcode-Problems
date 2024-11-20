@@ -3,7 +3,7 @@ class Solution {
     public int countGoodNumbers(long n) {
         long even = (n+1)/2;
         long odd = n/2;
-        // long first = pow(5,even)%mod;
+      
         return (int)((pow(5,even)* pow(4,odd))%mod);
     }
 
