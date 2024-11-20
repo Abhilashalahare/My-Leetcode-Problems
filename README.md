@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1585-the-kth-factor-of-n](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1585-the-kth-factor-of-n) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2050-count-good-numbers) |
 | [2491-smallest-even-multiple](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2491-smallest-even-multiple) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Divide and Conquer
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
