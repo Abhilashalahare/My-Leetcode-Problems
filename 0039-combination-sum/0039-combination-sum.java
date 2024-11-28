@@ -17,7 +17,7 @@ class Solution {
          
          temp.add(arr[i]);
          rec(arr,sum+arr[i], i, target);
-         temp.remove(temp.size()-1);
+         temp.remove(temp.size()-1);//remove last elet
          
          //dont take
          rec(arr, sum, i+1,target);
