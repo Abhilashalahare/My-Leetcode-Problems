@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
