@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0118-pascals-triangle) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0231-power-of-two) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0078-subsets) |
 ## Linked List
 |  |
 | ------- |
