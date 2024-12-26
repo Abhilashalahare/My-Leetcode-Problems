@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0494-target-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0494-target-sum) |
 ## Linked List
 |  |
 | ------- |
