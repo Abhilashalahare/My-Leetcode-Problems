@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0739-daily-temperatures) |
 ## Breadth-First Search
 |  |
