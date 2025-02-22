@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0898-transpose-matrix) |
