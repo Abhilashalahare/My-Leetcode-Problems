@@ -7,7 +7,7 @@ class Solution {
             if(cnt == 0){
                  cnt =1;
                 elet = nums[i];
-            }else if(elet == nums[i]){
+            }else if(nums[i]==elet){
                 cnt++;
             }else{
                 cnt--;
