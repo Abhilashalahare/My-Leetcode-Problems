@@ -5,7 +5,7 @@ class Solution {
 
         for(int i=0; i<nums.length; i++){
             if(cnt == 0){
-                cnt =1;
+                 cnt =1;
                 elet = nums[i];
             }else if(elet == nums[i]){
                 cnt++;
@@ -14,20 +14,7 @@ class Solution {
             }
 
         }
-
-            int cnt1=0;
-            for(int i=0; i<nums.length; i++){
-                if(nums[i] == elet){
-                    cnt1++;
-                }
-            
-           
-            }
-        
-
-         if(cnt1 > (nums.length)/2){
-                return elet;
-            }
-            return -1;
+     return elet;
+         
     }
 }
