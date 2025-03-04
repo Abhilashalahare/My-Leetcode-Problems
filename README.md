@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1585-the-kth-factor-of-n](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1585-the-kth-factor-of-n) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2050-count-good-numbers) |
 | [2491-smallest-even-multiple](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2491-smallest-even-multiple) |
