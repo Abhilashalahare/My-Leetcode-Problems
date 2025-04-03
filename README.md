@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
