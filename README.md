@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2050-count-good-numbers) |
 | [2491-smallest-even-multiple](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2507-number-of-common-factors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1585-the-kth-factor-of-n) |
 | [2491-smallest-even-multiple](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2507-number-of-common-factors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 ## Dynamic Programming
 |  |
@@ -602,4 +604,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
