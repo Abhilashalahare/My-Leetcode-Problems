@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3548-find-the-count-of-good-integers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3548-find-the-count-of-good-integers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3548-find-the-count-of-good-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -611,4 +613,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2507-number-of-common-factors) |
+| [3548-find-the-count-of-good-integers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3548-find-the-count-of-good-integers) |
+## Combinatorics
+|  |
+| ------- |
+| [3548-find-the-count-of-good-integers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
