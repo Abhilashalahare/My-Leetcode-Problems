@@ -1,19 +1,27 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-        Arrays.sort(intervals, Comparator.comparingInt(a -> a[0]));
-        int st = intervals[0][0], ed = intervals[0][1];
+        int n= intervals.length;
+        Arrays.sort(intervals, new Comparator<int[]>(){
+            public int compare(int[] a, int[] b){
+                return a[0] -  b[0];
+            } 
+        });
+
         List<int[]> ans = new ArrayList<>();
-        for (int i = 1; i < intervals.length; ++i) {
-            int s = intervals[i][0], e = intervals[i][1];
-            if (ed < s) {
-                ans.add(new int[] {st, ed});
-                st = s;
-                ed = e;
-            } else {
-                ed = Math.max(ed, e);
+        for(int i=0; i<n; i++){
+            //no overlap
+            // if ans is empty, ya fir new interval create krna h qki last one se bda h next num
+            if(ans.isEmpty() || intervals[i][0] > ans.get(ans.size()-1)[1]){
+                 //last interval ka 2nd value (0 idx h isly 1 h)
+            //then add new intervals of array
+            ans.add(new int[]{intervals[i][0], intervals[i][1]});
+
+            } else{ //overlap — merge by updating the end of the last interval
+            ans.get(ans.size()-1)[1] = Math.max(ans.get(ans.size()-1)[1], intervals[i][1]);
+
             }
         }
-        ans.add(new int[] {st, ed});
+            // Convert List<int[]> to int[][]
         return ans.toArray(new int[ans.size()][]);
     }
 }
