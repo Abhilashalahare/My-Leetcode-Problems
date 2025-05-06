@@ -15,7 +15,7 @@ class Solution {
         }
 
         // Merge overlapping intervals
-        while (i < n && intervals[i][0] <= end) {
+        while (i < n && intervals[i][0] <= end && intervals[i][1] >= st) {
             st = Math.min(st, intervals[i][0]);
             end = Math.max(end, intervals[i][1]);
             i++;
