@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3647-zero-array-transformation-iii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3647-zero-array-transformation-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
 | [2915-count-of-interesting-subarrays](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3647-zero-array-transformation-iii) |
 ## Number Theory
 |  |
 | ------- |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3647-zero-array-transformation-iii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3647-zero-array-transformation-iii) |
 ## Trie
 |  |
 | ------- |
@@ -713,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3647-zero-array-transformation-iii) |
 ## Bucket Sort
 |  |
 | ------- |
