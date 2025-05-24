@@ -4,7 +4,7 @@ class Solution {
     }
 
       private int helper(int[] arr, int target, int idx, int sum) {
-        if (idx >= arr.length)
+        if (idx == arr.length)
             return sum == target ? 1 : 0;
         
         int subtract = helper(arr, target, idx + 1, sum - arr[idx]);
