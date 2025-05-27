@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2915-count-of-interesting-subarrays) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
