@@ -18,13 +18,17 @@ class Solution {
                 } else if (sum > 0) {
                     k--;
                 } else {
+                    // List<Integer> temp =new ArrayList<>();
+                    // temp.add(nums[i]);
+                    // temp.add(nums[j]);
+                    // temp.add(nums[k]); is same as
                     List<Integer> temp = Arrays.asList(nums[i], nums[j], nums[k]);
                     ans.add(temp);
                     j++;
                     k--;
                     //skip the duplicates:
                     while (j < k && nums[j] == nums[j - 1]) j++;
-                    while (j < k && nums[k] == nums[k + 1]) k--;
+                    // while (j < k && nums[k] == nums[k + 1]) k--;
                 }
             }
         }
