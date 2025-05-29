@@ -1,23 +1,23 @@
 class Solution {
     public int[] applyOperations(int[] nums) {
-        int[] result = new int[nums.length];
-        int j = 0;
-        int i;
-        for(i = 0; i < nums.length - 1; i++){
-            if(nums[i] != 0){
-                if(nums[i] == nums[i + 1]){
-                    result[j] = nums[i] * 2;
-                    i++;
-                }
-                else{
-                    result[j] = nums[i];
-                }
-                j++;
+        int[] arr = new int[nums.length];
+        
+        for(int i=0; i<nums.length-1; i++){
+            if(nums[i] == nums[i+1]){
+                nums[i] *= 2;
+                nums[i+1] = 0;
             }
         }
-        if(i != nums.length){
-            result[j] = nums[nums.length - 1];
+       
+       int j=0;
+        for(int i=0; i<nums.length; i++){
+            if(nums[i] != 0){
+               
+                arr[j] =  nums[i];
+                j++;
+            }
+
         }
-        return result;
-    }
+     return arr;
+    } 
 }
