@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [0556-next-greater-element-iii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0868-push-dominoes](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0868-push-dominoes) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0556-next-greater-element-iii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1013-fibonacci-number) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0556-next-greater-element-iii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0812-rotate-string) |
