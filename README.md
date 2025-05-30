@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
+| [2228-watering-plants-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2228-watering-plants-ii) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2228-watering-plants-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [2048-build-array-from-permutation](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
+| [2228-watering-plants-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
