@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
+| [0945-snakes-and-ladders](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0945-snakes-and-ladders) |
 | [0958-sort-array-by-parity-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0898-transpose-matrix) |
+| [0945-snakes-and-ladders](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0945-snakes-and-ladders) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0547-number-of-provinces) |
+| [0945-snakes-and-ladders](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
