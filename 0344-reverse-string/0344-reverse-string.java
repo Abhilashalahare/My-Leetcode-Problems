@@ -1,16 +1,11 @@
 class Solution {
     public void reverseString(char[] s) {
-    int high=s.length-1;
-    int low=0;
-
-    while(low<high){
-        char temp = s[low];
-        s[low]=s[high];
-        s[high]=temp;
-
-        low++;
-        high--;
-    }
-      
+        int n = s.length-1;
+        for(int c=0; c<s.length/2; c++){
+            char temp = s[c];
+            s[c] = s[n];
+            s[n] = temp;
+            n--; 
+        }
     }
 }
