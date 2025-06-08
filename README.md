@@ -614,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 ## Backtracking
 |  |
 | ------- |
