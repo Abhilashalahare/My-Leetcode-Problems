@@ -11,26 +11,19 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-          ListNode temp;
+        if(headA == null || headB == null) return null;
+        ListNode t1 = headA; ListNode t2 = headB;
 
-        // Iterate through the nodes of the first linked list
-        while (headA != null) {
-            temp = headB;
+        while(t1 != t2){
+            t1 = t1.next;
+            t2 = t2.next;
 
-            // Iterate through the nodes of the second linked list
-            while (temp != null) {
-                // If the current nodes are the same, we found the intersection
-                if (headA == temp) {
-                    return headA;
-                }
-                temp = temp.next;
-            }
+            if(t1 == t2) return t1;
 
-            // Move to the next node in the first linked list
-            headA = headA.next;
+            if(t1 == null) t1 = headB;
+            if(t2 == null) t2 = headA; 
         }
 
-        // No intersection found
-        return null;
+        return t1;
     }
 }
