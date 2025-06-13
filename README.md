@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
