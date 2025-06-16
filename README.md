@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0945-snakes-and-ladders) |
 | [0958-sort-array-by-parity-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0958-sort-array-by-parity-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0797-rabbits-in-forest](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
+| [0940-fruit-into-baskets](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [0940-fruit-into-baskets](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
