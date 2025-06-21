@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0945-snakes-and-ladders) |
 | [0958-sort-array-by-parity-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [0979-di-string-match](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0958-sort-array-by-parity-ii) |
+| [0979-di-string-match](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0874-backspace-string-compare) |
+| [0979-di-string-match](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0979-di-string-match) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -691,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0797-rabbits-in-forest](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0890-lemonade-change) |
+| [0979-di-string-match](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0979-di-string-match) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
