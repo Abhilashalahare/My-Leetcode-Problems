@@ -2,6 +2,7 @@ class Solution {
     public int searchInsert(int[] nums, int target) {
           int st=0;
        int end = nums.length-1;
+       int ans=nums.length;
        
 
        while(st<=end){
@@ -9,13 +10,14 @@ class Solution {
         if(nums[mid]==target){
             return mid;
         }
-       else if(nums[mid]>target){
+        if(nums[mid]>=target){
+            ans = mid;
             end = mid-1;
         }else{
             st=mid+1;
         }
        }
-       return st;
+       return ans;
 
     }
 }
