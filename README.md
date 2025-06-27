@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0494-target-sum) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Linked List
 |  |
 | ------- |
@@ -880,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1656-count-good-triplets) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2507-number-of-common-factors](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2507-number-of-common-factors) |
