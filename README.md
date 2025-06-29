@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2228-watering-plants-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2228-watering-plants-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2447-merge-similar-items](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2447-merge-similar-items) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2447-merge-similar-items](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2447-merge-similar-items) |
@@ -870,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
