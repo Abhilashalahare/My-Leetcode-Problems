@@ -27,7 +27,7 @@ class Solution {
             
             for(int i=0; i<n; i++){
                 TreeNode temp = q.remove();
-                t = temp.val;
+                t = temp.val;//size of queue tak loop chlra h, always t = last value
                 if(temp.left != null) q.add(temp.left);
                 if(temp.right != null) q.add(temp.right);
             }
