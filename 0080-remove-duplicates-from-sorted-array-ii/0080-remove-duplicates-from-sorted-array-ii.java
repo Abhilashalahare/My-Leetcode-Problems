@@ -1,13 +1,18 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int i=2; 
-        for(int j=2; j<nums.length; j++){
-            if(nums[j] != nums[i-2]){
-                nums[i] = nums[j];
-                i++;
-            }
+ Map<Integer, Integer> freq = new HashMap<>();
+        int index = 0;
 
+        for (int i = 0; i < nums.length; i++) {
+            int val = nums[i];
+            freq.put(val, freq.getOrDefault(val, 0) + 1);
+
+            if (freq.get(val) <= 2) {
+                nums[index] = val;
+                index++;
+            }
         }
-        return i;
+
+        return index;
     }
 }
