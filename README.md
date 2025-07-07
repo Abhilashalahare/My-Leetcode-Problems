@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0979-di-string-match) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
@@ -934,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0506-relative-ranks) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
