@@ -1,13 +1,23 @@
 class Solution {
     public boolean check(int[] nums) {
-        
-      int cnt = 0;
-        for (int i = 0, n = nums.length; i < n; ++i) {
-            if (nums[i] > nums[(i + 1) % n]) {
-                ++cnt;
-            }
+        int n= nums.length;
+        if(n==1) return true;
+
+        int pos=1;
+        while(pos<n && nums[pos] >= nums[pos-1]) {
+            pos++;
         }
-        if( cnt <= 1) return true;
-return false;
+
+        if(pos == n) return true;
+        if(nums[pos] > nums[0]) return false;
+        // if(pos == n-1) return true;
+
+        pos += 1;
+        while(pos<n && nums[pos] >= nums[pos-1] && nums[pos]<=nums[0]){
+            pos++;
+        }
+
+        return pos==n;
+       
     }
 }
