@@ -1,12 +1,22 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
-        for(int i=0; i<matrix.length; i++){
-            for(int j=0; j<matrix[0].length; j++){
-                if(matrix[i][j] == target){
-                    return true;
-                }
+        int rows = matrix.length;
+        int cols = matrix[0].length;
+        int i = 0;          // row index
+        int j = cols - 1;   // column index
+
+        while (i < rows && j >= 0) {
+            int element = matrix[i][j];
+            
+            if (element == target) {
+                return true;
+            } else if (element > target) {
+                j--; // Too big, move left ⬅️
+            } else {
+                i++; // Too small, move down ⬇️
             }
         }
+
         return false;
     }
 }
