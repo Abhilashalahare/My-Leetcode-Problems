@@ -11,17 +11,11 @@ class Solution {
 
         for(int i=0; i<t.length(); i++){
           char ch = t.charAt(i);
-          if(map.get(ch) != null){  //character exists in map of s
-            if(map.get(ch)==1){ //freq=1->remove
-                map.remove(ch);
-            }else{
-                map.put(ch,map.get(ch)-1);  //freq>1 put the value with subtracting 1 from it
-
-            }
-          }else{
+         if(!map.containsKey(ch) || map.get(ch) == 0){
             return false;
-          }
+         }
+         map.put(ch, map.get(ch)-1);
         }
-        return map.isEmpty();
+        return true;
     }
 }
