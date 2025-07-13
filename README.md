@@ -1013,4 +1013,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
