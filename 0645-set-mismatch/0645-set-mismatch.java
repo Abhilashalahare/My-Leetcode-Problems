@@ -10,11 +10,8 @@ class Solution {
 
         int missingNum = naturalSum - (actualSum - repeatNum);
 
-        int[] ans = new int[2];
-        ans[0] = repeatNum;
-        ans[1] = missingNum;
-
-        return ans;
+      
+        return new int[]{repeatNum, missingNum};
     }
 
     public int repeat(int[] nums){
