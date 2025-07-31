@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-merge-similar-items](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2447-merge-similar-items) |
 | [2479-meeting-rooms-iii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1040,4 +1042,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1908-recyclable-and-low-fat-products) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
