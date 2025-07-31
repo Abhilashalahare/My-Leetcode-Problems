@@ -11,7 +11,7 @@ class Solution {
         int right = n-2; // Initialize the right boundary of the search space
       
         // Continue the loop until the search space is reduced to one element
-        while (left < right) {
+        while (left <= right) {
             // Calculate the middle index of the current search space
             int mid = (left + right ) / 2;
           
