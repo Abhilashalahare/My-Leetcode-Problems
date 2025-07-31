@@ -7,12 +7,12 @@ class Solution {
         }
         if(nums[n-1] > nums[n-2]) return n-1;
 
-    int left = 1; // Initialize the left boundary of the search space
-        int right = n-2; // Initialize the right boundary of the search space
+    int left = 1; 
+        int right = n-2; 
       
-        // Continue the loop until the search space is reduced to one element
+      
         while (left <= right) {
-            // Calculate the middle index of the current search space
+           
             int mid = (left + right ) / 2;
           
            if(nums[mid-1]< nums[mid] && nums[mid]>nums[mid+1]) return mid;
@@ -26,6 +26,6 @@ class Solution {
         }
       
         // When left == right, we have found the peak element's index, return it
-        return left;
+        return right;
     }
 }
