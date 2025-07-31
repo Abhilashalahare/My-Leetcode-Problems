@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2447-merge-similar-items](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2447-merge-similar-items) |
