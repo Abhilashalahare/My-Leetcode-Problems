@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0136-single-number) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
