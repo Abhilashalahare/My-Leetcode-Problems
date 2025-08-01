@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0645-set-mismatch) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0797-rabbits-in-forest](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
