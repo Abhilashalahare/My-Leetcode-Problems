@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0518-coin-change-ii) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
