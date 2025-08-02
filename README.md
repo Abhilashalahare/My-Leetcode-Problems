@@ -600,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
@@ -804,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
@@ -884,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0494-target-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Linked List
