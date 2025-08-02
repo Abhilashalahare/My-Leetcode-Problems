@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0136-single-number) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0125-valid-palindrome) |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0874-backspace-string-compare](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0874-backspace-string-compare) |
