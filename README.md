@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2228-watering-plants-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2228-watering-plants-ii) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2714-left-and-right-sum-differences](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
@@ -934,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
