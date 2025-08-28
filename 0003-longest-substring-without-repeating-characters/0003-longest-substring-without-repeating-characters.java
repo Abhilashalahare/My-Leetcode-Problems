@@ -1,22 +1,31 @@
 class Solution {
-    public int lengthOfLongestSubstring(String str) {
-     if(str.length()==0)
-             return 0;
-        int maxans = Integer.MIN_VALUE;
-        Set < Character > set = new HashSet < > ();
-        int l = 0;
-        for (int r = 0; r < str.length(); r++) // outer loop for traversing the string
-        {
-            if (set.contains(str.charAt(r))) //if duplicate element is found
-            {
-                while (l < r && set.contains(str.charAt(r))) {
-                    set.remove(str.charAt(l));
-                    l++;
+    public int lengthOfLongestSubstring(String s) {
+        int l=0, r =0;
+        int maxLen = 0;
+        int n= s.length();
+        int hash[] = new int[256]; //97-a, 98-b
+        
+        for(int i=0; i<256; i++){
+            hash[i] = -1;
+        }
+
+        if(n==0) return maxLen;
+
+        while(r<n){
+            char ch = s.charAt(r);
+            if(hash[ch] != -1){// means it is in the map already 
+                if(hash[ch] >= l){ //larger index pe a aya , or phle se a chhote index pe h, to chhote index k bad vale index pe l jayega
+                    l = hash[ch] +1;
                 }
             }
-            set.add(str.charAt(r));
-            maxans = Math.max(maxans, r - l + 1);
+            int len = r-l+1;
+            maxLen = Math.max(maxLen, len);
+            hash[ch] = r;
+            r++;
+            
+
+
         }
-        return maxans;
+return maxLen;
     }
 }
