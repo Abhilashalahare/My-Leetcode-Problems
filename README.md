@@ -761,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -790,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Hash Function
 |  |
@@ -984,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 ## Union Find
 |  |
 | ------- |
