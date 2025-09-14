@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0979-di-string-match](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0979-di-string-match) |
+| [1006-vowel-spellchecker](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1006-vowel-spellchecker) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1006-vowel-spellchecker](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1006-vowel-spellchecker) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0979-di-string-match](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0979-di-string-match) |
+| [1006-vowel-spellchecker](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
