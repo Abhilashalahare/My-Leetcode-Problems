@@ -1,26 +1,26 @@
 class Solution {
-     private List<String> answers = new ArrayList<>();
-    private int maxPairs;
-
-   
     public List<String> generateParenthesis(int n) {
-        this.maxPairs = n;
-        generate(0, 0, "");
-        return answers;
+        List<String> ans = new ArrayList<>();
+        int open =0;
+        int close = 0;
+
+        func(open, close, ans, n, "");
+         return ans;
     }
+
+    public void func(int o, int c, List<String> ans, int n, String s){
+        if(o>n || c>n || o<c) return;
+        if(o == n && c==n){
+            ans.add(s);
+            return;
+        }
+
+        func(o+1, c, ans, n, s+"(");
+        func(o, c+1, ans, n, s+")");
+
+
+       
 
     
-    private void generate(int openCount, int closeCount, String currentString) {
-        if (openCount > maxPairs || closeCount > maxPairs || openCount < closeCount) {
-            return;
-        }
-        if (openCount == maxPairs && closeCount == maxPairs) {
-            answers.add(currentString);
-            return;
-        }
-
-        generate(openCount + 1, closeCount, currentString + "(");
-        generate(openCount, closeCount + 1, currentString + ")");
     }
 }
-
