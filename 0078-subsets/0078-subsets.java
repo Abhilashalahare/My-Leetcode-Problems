@@ -9,7 +9,7 @@ class Solution {
         return result;
     }
     
-    private void generateSubsets(int[] nums, int index, List<Integer> currentSubset) {
+       private void generateSubsets(int[] nums, int index, List<Integer> currentSubset) {
         if (index == nums.length) {
             result.add(new ArrayList<>(currentSubset));
             return;
