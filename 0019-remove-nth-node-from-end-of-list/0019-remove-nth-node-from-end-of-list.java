@@ -15,9 +15,9 @@ class Solution {
         ListNode slow = head;
         ListNode fast = head;
 
-        for(int i=0; i<n; i++) fast = fast.next;
+        for(int i=0; i<n; i++) fast = fast.next; //reach till n from front
 
-        if(fast == null) return head.next;
+        if(fast == null) return head.next; // fast would be null if n = maxlength, so head will be the node to be deleted and return head.next
 
         while(fast.next != null){
             slow = slow.next;
