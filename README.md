@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0556-next-greater-element-iii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0598-range-addition-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0598-range-addition-ii) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0874-backspace-string-compare) |
@@ -953,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
