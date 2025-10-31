@@ -10,56 +10,46 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode t1 = reverse(l1);
-        ListNode t2 = reverse(l2);
+         Stack<Integer> s1 = new Stack<Integer>();
+        Stack<Integer> s2 = new Stack<Integer>();
+        
+        while(l1 != null) {
+            s1.push(l1.val);
+            l1 = l1.next;
+        };
+        while(l2 != null) {
+            s2.push(l2.val);
+            l2 = l2.next;
+        }
+        
+        ListNode temp = null; //start from back, eg - [7->null],[0->7->null] , add in front  
+        int carry =0;
 
-        int carry=0;
-        ListNode dummy = new ListNode(-1);
-        ListNode curr = dummy;
-
-       
-
-        while(t1!= null || t2!= null){
+          while (!s1.empty() || !s2.empty()) {
             int sum = carry;
-            if(t1 != null) sum += t1.val;
-            if(t2 != null) sum += t2.val;
+            if (!s1.empty()) {
+                sum += s1.pop();
+            }
+            if (!s2.empty()) {
+                sum += s2.pop();
+            }
 
-            ListNode newNode = new ListNode(sum % 10);
+            ListNode newNode = new ListNode(sum%10);
             carry = sum/10;
 
-            curr.next = newNode;
-            curr = curr.next;
+            //to add in front
+            newNode.next = temp; //newNode.next = null as temp is null initially
+            temp = newNode;
+             
 
-            if(t1 != null) t1 = t1.next;
-            if(t2 != null) t2 = t2.next;
+          }
 
-
-        }
-
-        if(carry>0){
+          if(carry>0){
              ListNode newNode = new ListNode(carry);
-             curr.next = newNode;
-        }
+             newNode.next = temp;
+             temp = newNode;
+          }
 
-         ListNode ans = reverse(dummy.next);
-
-        return ans;
-
-    }
-
-    public ListNode reverse(ListNode head){
-         ListNode prev = null;
-         ListNode curr = head;
-         ListNode front;
-
-         while(curr != null){
-            front = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = front;
-         }
-
-         return prev;
-
+          return temp;
     }
 }
