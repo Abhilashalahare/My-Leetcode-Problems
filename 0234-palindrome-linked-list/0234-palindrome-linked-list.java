@@ -21,13 +21,15 @@ class Solution {
 
        ListNode prev = null;
 
+    //   reverse 2nd half of the linkedlist
        while(slow != null){
         ListNode front = slow.next;
         slow.next = prev;
         prev = slow;
         slow = front;
        } 
-
+       
+    //    first at 1st half seconf at 2nd half
        ListNode first = head;
        ListNode second = prev;
 
