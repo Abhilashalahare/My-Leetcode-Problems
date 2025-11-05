@@ -1,7 +1,7 @@
 class Solution {
     public int uniquePaths(int m, int n) {
         int[][] dp = new int[m][n];
-        
+
         // initialize with -1 (unvisited)
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
@@ -33,4 +33,22 @@ class Solution {
         dp[x][y] = way1 + way2; // store result before returning
         return dp[x][y];
     }
+// recursion
+
+    // public int uniquePaths(int m, int n) {
+    //     int x = 0, y = 0;
+    //     return gridWays(x, y, m, n);
+    // }
+
+    // public int gridWays(int x, int y, int m, int n) {
+    //     if (x == m || y == n) {
+    //         return 0;
+    //     }
+    //     if (x == m - 1 && y == n - 1) {
+    //         return 1;
+    //     }
+    //     int way1 = gridWays(x + 1, y, m, n);
+    //     int way2 = gridWays(x, y + 1, m, n);
+    //     return way1 + way2;
+    // }
 }
