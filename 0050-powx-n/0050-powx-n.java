@@ -13,9 +13,9 @@ class Solution {
             return 0;
         }
 
-    if(n<0){
+       if(n<0){
         return 1.0/find(x,-n);
-    }
+       }
 
         double half = find(x,n/2);
         double sq = half*half;
