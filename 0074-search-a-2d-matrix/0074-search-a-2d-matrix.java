@@ -11,9 +11,9 @@ class Solution {
             if (element == target) {
                 return true;
             } else if (element > target) {
-                j--; // Too big, move left ⬅️
+                j--; // Too big, move left 
             } else {
-                i++; // Too small, move down ⬇️
+                i++; // Too small, move down 
             }
         }
 
