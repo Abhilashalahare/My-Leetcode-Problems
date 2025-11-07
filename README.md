@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
