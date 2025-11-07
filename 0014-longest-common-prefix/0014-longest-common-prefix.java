@@ -6,7 +6,7 @@ class Solution {
         String a = strs[0];
         String b = strs[strs.length-1];
 
-        for(int i=0; i<a.length(); i++){
+        for(int i=0; i<Math.min(a.length(), b.length()); i++){
             if(a.charAt(i) != b.charAt(i)){
                break;
             }
