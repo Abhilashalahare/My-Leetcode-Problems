@@ -1,20 +1,19 @@
 class MyStack {
-       Queue < Integer > q = new LinkedList < > ();
-
+    Queue<Integer> q;
+    int size=0;
     public MyStack() {
-        
+        q = new LinkedList<>();
     }
     
     public void push(int x) {
-         q.add(x);//1 2 3 
-        for (int i = 0; i < q.size() - 1; i++) {
-            q.add(q.remove());//3 2 1
-            //remove from front and add to to the back becox in stack back se mtlb last me add hota h
-    }
+        q.add(x);
+        for(int i=0; i<q.size()-1; i++){
+            q.add(q.remove());
+        }
     }
     
     public int pop() {
-        return q.remove();
+       return q.remove();
     }
     
     public int top() {
