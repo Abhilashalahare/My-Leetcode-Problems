@@ -11,13 +11,10 @@ class Solution {
             //moving 2 pointers:
             int j = i + 1;
             int k = n - 1;
+            int sum = -1*nums[i];
             while (j < k) {
-                int sum = nums[i] + nums[j] + nums[k];
-                if (sum < 0) {
-                    j++;
-                } else if (sum > 0) {
-                    k--;
-                } else {
+                int s =  nums[j] + nums[k];
+               if(s==sum) {
                     // List<Integer> temp =new ArrayList<>();
                     // temp.add(nums[i]);
                     // temp.add(nums[j]);
@@ -28,7 +25,11 @@ class Solution {
                     k--;
                     //skip the duplicates:
                     while (j < k && nums[j] == nums[j - 1]) j++;
-                    // while (j < k && nums[k] == nums[k + 1]) k--;
+                    while (j < k && nums[k] == nums[k + 1]) k--;
+                }else if(s<sum){
+                    j++;
+                }else{
+                    k--;
                 }
             }
         }
