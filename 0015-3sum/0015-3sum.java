@@ -24,8 +24,8 @@ class Solution {
                     j++;
                     k--;
                     //skip the duplicates:
-                    while (j < k && nums[j] == nums[j - 1]) j++;
-                    while (j < k && nums[k] == nums[k + 1]) k--;
+                    while (j<n && nums[j] == nums[j - 1]) j++;
+                    while (k>=0 && nums[k] == nums[k + 1]) k--;
                 }else if(s<sum){
                     j++;
                 }else{
