@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1046-last-stone-weight) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1168-duplicate-zeros](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1168-duplicate-zeros) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -1133,6 +1134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
+| [1046-last-stone-weight](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1046-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
