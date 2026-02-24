@@ -842,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -873,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -905,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Hash Function
