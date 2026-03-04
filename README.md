@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0945-snakes-and-ladders) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
