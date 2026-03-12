@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1980-find-unique-binary-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1980-find-unique-binary-string) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
+| [1980-find-unique-binary-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1980-find-unique-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
@@ -1010,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0494-target-sum) |
+| [1980-find-unique-binary-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1980-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Linked List
 |  |
