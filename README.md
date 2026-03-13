@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0979-di-string-match](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0979-di-string-match) |
 | [1006-vowel-spellchecker](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1006-vowel-spellchecker) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1006-vowel-spellchecker](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1006-vowel-spellchecker) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0731-my-calendar-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
