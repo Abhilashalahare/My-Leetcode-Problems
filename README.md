@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
+| [0724-find-pivot-index](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0739-daily-temperatures) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0731-my-calendar-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
