@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
+| [2104-sum-of-subarray-ranges](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2104-sum-of-subarray-ranges](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2128-reverse-prefix-of-word](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -1087,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/0739-daily-temperatures) |
+| [2104-sum-of-subarray-ranges](https://github.com/Abhilashalahare/My-Leetcode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Breadth-First Search
 |  |
 | ------- |
