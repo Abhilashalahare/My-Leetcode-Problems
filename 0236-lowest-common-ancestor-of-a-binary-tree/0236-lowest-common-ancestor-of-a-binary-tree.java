@@ -17,7 +17,7 @@ class Solution {
         TreeNode lft = lowestCommonAncestor(root.left,p,q);
         TreeNode rht =  lowestCommonAncestor(root.right,p,q); 
 
-        if(lft == null){
+        if(lft == null){//if p or q doesnt xixts in left, then subtree then root cant be the lca so return right
             return rht;
         }
         if(rht==null){
