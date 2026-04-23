@@ -24,7 +24,7 @@ class Solution {
           boolean reverse = false;
 
         
-        while(q.isEmpty() == false){
+        while(!q.isEmpty()){
             int n=q.size();
             List<Integer> t = new ArrayList<>();
             
