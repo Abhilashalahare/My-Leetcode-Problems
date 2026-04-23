@@ -21,18 +21,19 @@ class Solution {
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
         
-        while(q.isEmpty() == false){
-            int n=q.size();
-            List<Integer> t = new ArrayList<>();
+        while(!q.isEmpty()){
+            int n = q.size();
+            List<Integer> t =new ArrayList<>();
             
             for(int i=0; i<n; i++){
-                TreeNode temp = q.remove();
-                t.add(temp.val);
-                if(temp.left != null) q.add(temp.left);
-                if(temp.right != null) q.add(temp.right);
-            }
+                TreeNode curr =  q.poll();
+                t.add(curr.val);
 
-            a.add(t);
+                if(curr.left != null) q.offer(curr.left);
+                if(curr.right != null) q.offer(curr.right);
+            }
+              a.add(t);
+        
          
         }
         return a;
